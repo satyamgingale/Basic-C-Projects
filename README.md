@@ -1,2 +1,4 @@
 # Basic-C-Projects
-My Basic C Projects, where I started to practice C language
+My Basic C Projects, when I started to practice C language
+
+There are many projects under this repository,
